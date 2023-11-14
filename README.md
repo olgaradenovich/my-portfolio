@@ -133,7 +133,6 @@
 </ol>
 
 ## Контактная информация
-- Email: name@email.com
-- LinkedIn: https://www.linkedin.com/in/username/
-- Личный сайт: https://www.username.com
+- Email: olga.radenovich@gmail.com
+- LinkedIn: https://www.linkedin.com/in/olga-radenovich-0917a929b/
 
