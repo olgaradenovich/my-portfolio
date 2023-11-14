@@ -8,11 +8,13 @@
 <br>
 
 ## Навыки и технологии
-<image src="/Tools.jpg">
+
 - Инструменты анализа данных: ``SQL``, ``Excel``: 
 - Языки программирования и библиотеки: ``Python``, ``Pandas``, ``math`` 
 - Системы управления базами данных: ``MySQL``, ``PostgreSQL``
 - Средства визуализации данных: ``PowerBi``, ``Matplotlib``, ``seaborn``
+
+<image src="/Tools.jpg">
 
 
 
